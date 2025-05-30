@@ -1,0 +1,60 @@
+body{   
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mibarra {  
+    background-color: blue  !important;
+
+}
+
+.nav-link{   
+color: aquamarine !important;
+}
+
+.nav-link:hover{    
+    color: rgb(255, 81, 0) !important; 
+}
+
+.hero-content{  
+    background: url(/img/frito.jpg) no-repeat center center/cover;
+    height: 100vh;
+
+    color: white;
+    text-align: center;
+    padding: 0 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.intro{ 
+    font-size: 40px;
+    margin: 0 auto 10px;
+    margin-top: 70px;
+    max-width: 700px;
+    line-height:  1.6em;
+}
+
+footer{ 
+    background-color: blue;
+    color: bisque;
+    height:  50px;
+    line-height: 50px;
+    text-align: center;
+}
+
+.container{ 
+    height: 500px;
+}
+.active{    
+      color: rgb(255, 81, 0) !important; 
+}
+.navbar-brand{  
+    color: white !important;
+}
+.card-img-top{    
+    height: 150px !important;
+    object-fit: cover;
+}
+.asada{    
+    height: 500px;
+}
